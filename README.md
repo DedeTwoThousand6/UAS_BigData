@@ -260,11 +260,11 @@ Selain menghasilkan nilai **Support**, **Confidence**, dan **Lift**, model juga 
 
 ## 👨‍💻 Anggota Kelompok
 
-**Dede Jamaludin**
-**Hasbi Baihaqi**
-**Danar Iswara**
-**Syifa Kanita Putri**
-**Ari Mauludin**
+- **Dede Jamaludin**
+- **Hasbi Baihaqi**
+- **Danar Iswara**
+- **Syifa Kanita Putri**
+- **Ari Mauludin**
 
 Tugas UAS Big Data
 
